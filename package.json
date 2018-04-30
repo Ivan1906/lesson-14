@@ -1,0 +1,11 @@
+{
+  "name": "lesson-14",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Ivan1906/lesson-14.git",
+  "author": "Ivan1906 <yanik.ivan@ukr.net>",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.0.16"
+  }
+}

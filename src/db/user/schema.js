@@ -8,7 +8,6 @@ const Profile = new Schema({
 });
 
 const UserSchema = new Schema({
-    _id: Schema.Types.ObjectId,
     email: String,
     profile: Profile,
     services: String

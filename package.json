@@ -5,6 +5,9 @@
   "repository": "https://github.com/Ivan1906/lesson-14.git",
   "author": "Ivan1906 <yanik.ivan@ukr.net>",
   "license": "MIT",
+  "scripts": {
+    "db": "mongod --dbpath data/db --port 3001"
+  },
   "dependencies": {
     "mongoose": "^5.0.16"
   }
